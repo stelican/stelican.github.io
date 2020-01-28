@@ -1,5 +1,5 @@
-title: Your awesome title
-author: GitHub User
+title: A simple developer blog
+author: stelican
 email: stelica.novac@gmail.com
 description: > # this means to ignore newlines until "show_exerpts:"
   Write an awesome description for your new site here. You can edit this
@@ -10,6 +10,8 @@ show_excerpts: true # set to true to show excerpts on the homepage
 url: "https://stelican.github.io" # the base hostname & protocol for your site
 # baseurl: "/the/subpath/of/your/site" # Set this value to "" if you want your site to be root
 baseurl: "/"
+
+remote_theme: thelehhman/plainwhite-jekyll
 
 # Minima date format
 # refer to http://shopify.github.io/liquid/filters/date/ if you want to customize this
